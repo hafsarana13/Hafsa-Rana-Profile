@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Hafsa Rana</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="5c63983327ad49e499f86fb8375caa5c.jpeg" >
+<img align="right" alt="coding" width="400" src="https://github.com/hafsarana13/hafsarana13/blob/main/picc.jpeg" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsarana13&label=Profile%20views&color=0e75b6&style=flat" alt="hafsarana13" /> </p>
 
